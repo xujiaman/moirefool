@@ -19,7 +19,7 @@
  1. Clone the repository:
     ```
     git clone https://github.com/xujiaman/moirefool.git
-    cd MoireFool
+    cd moirefool
     ```
  2. Install the required dependencies (if any). You may create a virtual environment first.
  3. Set up the datasets:
