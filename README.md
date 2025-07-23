@@ -18,7 +18,7 @@
  ## Usage
  1. Clone the repository:
     ```
-    git clone https://github.com/xujiaman/MoireFool.git
+    git clone https://github.com/xujiaman/moirefool.git
     cd MoireFool
     ```
  2. Install the required dependencies (if any). You may create a virtual environment first.
