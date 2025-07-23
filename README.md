@@ -3,7 +3,7 @@
  This repository contains the core implementation for the paper "MoiréFool: Exploiting Moiré Patterns for Adversarial Attacks on Pedestrian Detection Systems". In this work, we propose MoiréFool, a framework that generates adversarial textures by exploiting moiré patterns to attack pedestrian detection systems. We formalize three moiré morphologies and establish a triple-threat attack (vanishing, fabrication, mislabeling). Our joint optimization strategy integrates both adversarial and physical constraints. We evaluate our method on SSD, YOLOv3, and Faster R-CNN using the OCHuman and COCO-Persons datasets.
  ## Main Contributions
  - Formalization of three moiré morphologies.
- - Triple-threat attack: vanishing (making pedestrians undetectable), fabrication (creating false pedestrian detections), and mislabeling (changing the label of detected pedestrians).
+ - Triple-threat attack: making pedestrians undetectable, creating false pedestrian detections, and changing the label of detected pedestrians.
  - A joint optimization strategy that combines adversarial objectives with physical constraints to generate effective moiré patterns.
  - Comprehensive evaluations on three popular object detectors (SSD, YOLOv3, Faster R-CNN) and two pedestrian datasets (OCHuman and COCO-Persons).
  ## Requirements
